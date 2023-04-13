@@ -1,0 +1,10 @@
+export const ERROR_UNABLE_FETCH_DATA = "Unable to fetch data please try again";
+export const ERROR_UNABLE_DELETE_DATA = "Unable to delete data please try again";
+export const SUCCRSS_USER_DELETE_DATA = "User Delete successfully.";
+export const SUCCRSS_USER_SAVE_DATA = "New User Added successfully.";
+export const SUCCRSS_USER_UPDATED_DATA = "New User Updated successfully.";
+export const ERROR_UNABLE_UPDATE_USER_DATA = "Unable to update user please try again later.";
+export const ERROR_UNABLE_ADD_USER_DATA = "Unable to add new user please try again later.";
+export const LABEL_ERROR = "Error";
+export const LABEL_UPDATE= "Update";
+export const LABEL_DELETE= "Delete";
